@@ -61,7 +61,7 @@ Explore my repositories to see my projects, experiments, and learning progress.
 ## Connect
 
 - GitHub: [@fatimaamjaddd](https://github.com/fatimaamjaddd)
-
+- LinkedIn: [@fatima-amjad](https://www.linkedin.com/in/fatima-amjad-446960433)
 ---
 
 ### Learning continuously. Building practically. Growing technically.
