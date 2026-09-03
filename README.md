@@ -1,62 +1,67 @@
 # Hi, I'm Fatima Amjad 👋
 
-🎓 Information Security Student  
-💻 Exploring programming, cybersecurity, and technology  
-🚀 Learning by building practical projects
+### Information Security Student | Programming | Cybersecurity
+
+I'm an Information Security student developing my skills in programming, cybersecurity, Linux, and secure systems through hands-on learning and practical projects.
+
+I use GitHub to document my learning journey, build projects, and continuously strengthen my technical skills.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm an Information Security student building my foundations in programming and cybersecurity.
-
-I enjoy learning new technologies, solving problems, and turning what I learn into practical projects.
-
-I'm currently developing my skills in programming, Linux, cybersecurity, and software development.
+- 🎓 Information Security student
+- 🔐 Interested in cybersecurity and information security
+- 💻 Building a strong foundation in programming
+- 🐧 Developing my Linux and system skills
+- 🚀 Learning through practical projects and experimentation
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-- C++
+**Programming Languages**
+
+C++ · Java · Python
+
+**Tools & Technologies**
+
+Git · GitHub · Linux · VS Code
+
+**Areas of Interest**
+
+Cybersecurity · Information Security · Secure Systems · Problem Solving
+
+---
+
+## Currently Learning
+
+- C++ and Object-Oriented Programming
 - Java
 - Python
 - Linux
-- Git & GitHub
-- Object-Oriented Programming
-- Problem Solving
-
----
-
-## 🔐 Cybersecurity Interests
-
-- Information Security
-- Network Security
-- Linux & System Security
-- Secure Software
 - Cybersecurity Fundamentals
 
 ---
 
-## 📚 Currently Learning
+## Projects
 
-🌱 Programming fundamentals  
-🐧 Linux  
-🔐 Cybersecurity  
-💻 Software development  
+I build projects to apply concepts I learn and develop practical programming and technical skills.
 
----
-
-## 🚀 Projects
-
-My projects will be added here as I continue learning and building.
+My projects will be added and documented here as I progress.
 
 ---
 
-## 🌐 Connect With Me
+## GitHub
+
+Explore my repositories to see my projects, experiments, and learning progress.
+
+---
+
+## Connect
 
 - GitHub: [@fatimaamjaddd](https://github.com/fatimaamjaddd)
 
 ---
 
-⭐ Thanks for visiting my profile!
+### Learning continuously. Building practically. Growing technically.
